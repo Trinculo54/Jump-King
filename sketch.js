@@ -26,7 +26,7 @@ let placingPlayer = false;
 let placingCoins = false;
 let playerPlaced = false;
 
-let testingSinglePlayer = false;
+let testingSinglePlayer = true;
 
 
 let fallSound = null;
